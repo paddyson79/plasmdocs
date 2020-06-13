@@ -1,12 +1,12 @@
 ---
-Beschreibung: "Hallo zusammen! Danke, dass Sie sich die Dokumentation von Plasm Network anschauen. \U0001F609"
+Beschreibung: "Hallo zusammen! Danke, dass Sie sich die Dokumentation zum Plasm Network anschauen. \U0001F609"
 ---
 
 # Willkommen 💁
 
 ![](.gitbook/assets/sukurnshotto-2020-05-27-200702png.png)
 
-## Willkommen bei der Plasm Network Dokumentation zum !
+## Willkommen bei der Plasm Network Dokumentation!
 
 Plasm Network ist eine **skalierbare und interoperable Infrastruktur für Web3.0**. Da Plasm Network mit [Parity’s Substrate framework](https://www.substrate.io/) entwickelt wurde, kann es eine zukünftige [Polkadot](https://polkadot.network/) **Parachain** sein, die auch als skalierbare intelligente Vertragsplattform fungiert. Die [Polkadot](https://polkadot.network/) Relaychain unterstützt von vornherein keine intelligenten Verträge. Dies gibt Plasm die Möglichkeit, diese Lücke zu schließen. Skalierbarkeit ist offensichtlich eine der wichtigsten Anforderungen, die DApp-Entwickler haben. Im Idealfall können die Entwickler beliebige Anwendungen auf dem Plasm-Netzwerk aufbauen, ohne dessen Skalierbarkeit berücksichtigen zu müssen.
 
